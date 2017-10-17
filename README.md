@@ -2,7 +2,7 @@
 
 ## License
 Remember to make a reference to this project if you gonna use it. Also, you can buy me a beer if you like it!
-You can use this asset in your project for comercial use but you cannot sell this asset.
+You can use this asset in your project for commercial use but you cannot sell this asset.
 
 ## Synopsis
 
