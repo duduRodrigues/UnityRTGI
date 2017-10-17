@@ -18,4 +18,4 @@ You only need to install the [Unity Engine](unity3d.com) and open the project.
 + This project was started on unity 5.4.1f1 version.
 
 ## Contact
-eduardohmrodrigues@gmail.com or ehmr@cin.ufpe.br
+ehmr@cin.ufpe.br or eduardohmrodrigues@gmail.com
